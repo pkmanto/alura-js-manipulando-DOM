@@ -4,6 +4,8 @@ Este projeto foi criado à partir das aulas de HTML/CSS/JavaScript da Alura. A i
 
 ## Ferramentas utilizadas:
 
+* HTML
+
 * JavaScript
 
 ## Reproduzido por:
